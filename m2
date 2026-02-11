@@ -1,7 +1,3 @@
-<h1>M2 Assessment</h1>
-<p><strong>Assess how dietary intake and nutritional health are influenced by dietary habits and lifestyle choices</strong></p>
-<p>I will answer each part clearly for Christos and Mary using the same layout.</p>
-
 <h2>Christos</h2>
 
 <h3>1. What dietary habits and lifestyle choices might he have?</h3>
