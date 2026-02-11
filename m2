@@ -1,241 +1,88 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>M2: Dietary Intake and Nutritional Health</title>
-</head>
-<body>
-  <h1>M2: Assess How Dietary Intake and Nutritional Health Are Influenced by Dietary Habits and Lifestyle Choices</h1>
+<h1>M2: Assess How Dietary Intake and Nutritional Health Are Influenced by Dietary Habits and Lifestyle Choices</h1>
 
-  <hr />
+<h2>Christos</h2>
 
-  <h1>1. What Dietary Habits and Lifestyle Choices Might the Individuals Have?</h1>
+<h3>1. Dietary Habits and Lifestyle Choices</h3>
+<p>
+Christos is 70 years old, lives alone in a village with limited public transport, and does not enjoy cooking. Although he has a good pension and savings, his location and low motivation to cook are likely to influence his food choices. Because he lives close to a convenience store, he may rely heavily on ready meals, tinned foods, white bread, pastries and other quick options that require little preparation. Older adults who live alone sometimes skip meals or eat small portions because cooking feels like too much effort.
+</p>
+<p>
+Christos also has Type 2 diabetes, which means he should carefully manage his carbohydrate intake. However, if he prefers easy and processed foods, he may consume too many refined carbohydrates and sugary products. His lifestyle may also be fairly sedentary due to limited transport and possible social isolation, which could further affect his weight and blood glucose control.
+</p>
 
-  <h2>Christos</h2>
-  <p>
-    Christos is 70 years old, lives alone in a village with limited public transport, and does not enjoy cooking.
-    Even though he has money, his location and motivation will strongly influence what he eats. Since he lives near a
-    convenience store, he may rely on ready meals, tinned foods, white bread, pastries, and other quick options.
-    Older people who live alone sometimes skip meals or eat small portions because cooking feels like too much effort.
-  </p>
-  <p>
-    He also has Type 2 diabetes, which means he should manage his carbohydrate intake carefully. However, if he prefers
-    easy foods, he may eat too many refined carbohydrates and sugary foods. His lifestyle may also be quite sedentary if
-    he does not travel much or socialise often.
-  </p>
+<h3>2. Foods He May Eat Too Much or Too Little Of</h3>
+<p>
+Christos may eat too many refined carbohydrates such as white bread and pastries, along with processed foods that are high in salt and sugary snacks. These foods are commonly available in convenience stores and are quick to prepare. At the same time, he may not eat enough fresh fruit and vegetables, wholegrains, fibre or lean protein sources such as fish, beans or eggs.
+</p>
+<p>
+Convenience foods are often high in saturated fat and sodium. If Christos relies on these regularly, he could be consuming excessive amounts of unhealthy fats and salt while lacking essential nutrients that support digestion, muscle strength and heart health.
+</p>
 
-  <hr />
+<h3>3. Nutrients He May Have Too Much or Too Little Of</h3>
+<p>
+Christos may consume too much sugar, saturated fat and sodium if his diet includes frequent processed meals and refined carbohydrates. Excess sugar can cause spikes in blood glucose levels, which is particularly dangerous for someone with Type 2 diabetes. Too much sodium can increase blood pressure and raise the risk of heart disease and stroke.
+</p>
+<p>
+He may also have too little fibre, vitamin D and protein. Low fibre intake can make blood glucose harder to control and may cause digestive problems such as constipation. Inadequate protein intake in older adults can lead to muscle loss and weakness, increasing the risk of falls. Older people are also at risk of low vitamin D levels, which can weaken bones and increase fracture risk.
+</p>
 
-  <h2>Mary</h2>
-  <p>
-    Mary is 27, pregnant, a single mum, vegetarian and lactose intolerant. She lives on benefits in a busy town.
-    Her lifestyle likely includes looking after her three year old while managing pregnancy. This may limit time for
-    cooking.
-  </p>
-  <p>
-    Because she is vegetarian, she does not eat meat or fish. Because she is lactose intolerant, she cannot consume
-    regular dairy. This already removes two major food groups from her diet unless she replaces them properly. Since she
-    lives on benefits, she might choose cheaper foods, which can sometimes be more processed and high in fat, salt and
-    sugar.
-  </p>
+<h3>4. Impact on His Health</h3>
+<p>
+If Christos continues to eat high amounts of refined carbohydrates and sugary foods, his blood glucose levels may remain poorly controlled. Long term poor diabetes management increases the risk of heart disease, kidney damage, nerve damage and vision problems. High salt intake would further increase his cardiovascular risk by raising blood pressure.
+</p>
+<p>
+If he does not consume enough protein, he may lose muscle mass and become frail, which increases the likelihood of falls and injuries. However, if he chooses more wholegrains, vegetables, lean protein and healthy fats such as olive oil, he could improve blood sugar control and reduce the risk of complications.
+</p>
 
-  <hr />
+<h3>5. Alternative Method of Feeding and Its Impact</h3>
+<p>
+An alternative method of feeding for Christos could be prescribed oral nutritional supplements if he begins to lose weight or struggles to eat balanced meals. These supplements can increase calorie and protein intake and help prevent malnutrition and muscle loss.
+</p>
+<p>
+However, some nutritional drinks contain sugar, which could negatively affect blood glucose levels. For this reason, diabetes specific supplements would need to be chosen and monitored by a healthcare professional. This shows that alternative feeding methods can be beneficial but must be carefully matched to the individual’s medical condition.
+</p>
 
-  <h1>2. What Foods Might They Eat Too Much or Too Little Of?</h1>
+<h2>Mary</h2>
 
-  <h2>Christos</h2>
-  <p>He might eat too much:</p>
-  <ul>
-    <li>Refined carbohydrates such as white bread and pastries</li>
-    <li>Processed foods high in salt</li>
-    <li>Sugary snacks</li>
-  </ul>
+<h3>1. Dietary Habits and Lifestyle Choices</h3>
+<p>
+Mary is 27 years old, pregnant, a single mother and vegetarian. She is also lactose intolerant and lives on benefits in a busy town. Her daily life likely involves caring for her three year old child while managing her pregnancy, which may reduce the time and energy she has for meal preparation.
+</p>
+<p>
+Because she is vegetarian, she does not consume meat or fish. Because she is lactose intolerant, she does not consume regular dairy products. This removes two major food groups from her diet unless she replaces them carefully with suitable alternatives. Living on a limited income may mean she chooses cheaper foods, which can sometimes be processed and higher in fat, sugar and salt.
+</p>
 
-  <p>He might eat too little:</p>
-  <ul>
-    <li>Fresh fruit and vegetables</li>
-    <li>Fibre</li>
-    <li>Lean protein</li>
-    <li>Wholegrains</li>
-  </ul>
+<h3>2. Foods She May Eat Too Much or Too Little Of</h3>
+<p>
+Mary may eat too many processed vegetarian foods, refined carbohydrates and convenient snack foods if she is busy and managing on a budget. Some meat substitutes and ready meals can be high in saturated fat and sodium.
+</p>
+<p>
+At the same time, she may not eat enough iron rich foods, vitamin B12 sources, calcium rich alternatives or high quality protein if her vegetarian diet is not well planned. Without proper replacements for meat and dairy, important nutrients could be lacking.
+</p>
 
-  <p>
-    Convenience foods are often high in saturated fat and salt. If he relies on these, he could be consuming too much
-    sodium and unhealthy fats.
-  </p>
+<h3>3. Nutrients She May Have Too Much or Too Little Of</h3>
+<p>
+Mary may have low levels of iron, vitamin B12, calcium, iodine, omega 3 fatty acids and vitamin D. Pregnancy increases the need for iron, and plant based iron is not absorbed as easily as iron from meat. If she does not consume enough iron rich foods or combine them with vitamin C, she could develop iron deficiency anaemia. Vitamin B12 is mainly found in animal products, so without fortified foods or supplements she could become deficient, which may affect nerve function and the baby’s development.
+</p>
+<p>
+Because she is lactose intolerant, she may not consume enough calcium unless she uses fortified plant milks. Calcium is essential for the baby’s bone development and for protecting her own bone health. Iodine is important for brain development in pregnancy, and vegetarian diets can sometimes be low in this nutrient.
+</p>
+<p>
+She may also consume too many refined carbohydrates, added sugars, saturated fats and sodium if she relies on cheaper processed foods. Excess sugar and carbohydrates can increase the risk of excessive weight gain and gestational diabetes. High sodium intake can raise blood pressure, increasing the risk of complications such as pre eclampsia.
+</p>
 
-  <hr />
+<h3>4. Impact on Her Health</h3>
+<p>
+If Mary does not meet her increased nutritional needs during pregnancy, there could be serious consequences. Iron deficiency can cause anaemia, tiredness and low birth weight. Low calcium intake may affect both her bone strength and the baby’s bone development. Vitamin B12 deficiency could affect neurological development.
+</p>
+<p>
+If she consumes excessive amounts of processed foods high in sugar and fat, she may gain too much weight during pregnancy. This increases the risk of gestational diabetes and high blood pressure. However, a well planned vegetarian diet that includes fortified foods and appropriate supplements can fully support a healthy pregnancy.
+</p>
 
-  <h2>Mary</h2>
-  <p>She might eat too much:</p>
-  <ul>
-    <li>Cheap processed vegetarian foods</li>
-    <li>Foods high in carbohydrates</li>
-    <li>Snack foods if she is busy</li>
-  </ul>
-
-  <p>She might eat too little:</p>
-  <ul>
-    <li>Iron rich foods</li>
-    <li>Vitamin B12</li>
-    <li>Calcium</li>
-    <li>High quality protein</li>
-  </ul>
-
-  <p>
-    If she does not replace meat and dairy properly, she could miss key nutrients. Vegetarian diets can be healthy, but
-    they need planning.
-  </p>
-
-  <hr />
-
-  <h1>3. What Nutrients Might They Have Too Much or Too Little Of?</h1>
-
-  <h2>Christos</h2>
-  <p>Too much:</p>
-  <ul>
-    <li>Sugar</li>
-    <li>Saturated fat</li>
-    <li>Sodium</li>
-  </ul>
-
-  <p>Too little:</p>
-  <ul>
-    <li>Fibre</li>
-    <li>Vitamin D</li>
-    <li>Protein</li>
-  </ul>
-
-  <p>
-    Too much sugar and refined carbohydrates can raise blood glucose levels. This is especially dangerous with Type 2
-    diabetes. Too much sodium increases blood pressure, raising the risk of heart disease and stroke.
-  </p>
-  <p>
-    Too little fibre can make blood sugar harder to control and cause digestive issues. Low protein intake in older
-    adults can lead to muscle loss and weakness. Older people are also at risk of low vitamin D, which affects bone
-    strength.
-  </p>
-
-  <hr />
-
-  <h2>Mary</h2>
-  <p>Too little:</p>
-  <ul>
-    <li>Iron</li>
-    <li>Vitamin B12</li>
-    <li>Calcium</li>
-    <li>Iodine</li>
-    <li>Omega 3 fatty acids</li>
-    <li>Vitamin D</li>
-  </ul>
-
-  <p>
-    Because Mary is vegetarian and pregnant, her iron needs are higher. If she does not eat enough iron rich plant foods
-    or combine them with vitamin C, she could develop iron deficiency anaemia. This can cause tiredness, dizziness and
-    increase risks during pregnancy.
-  </p>
-  <p>
-    Vitamin B12 is mainly found in animal products, so she may not get enough unless she eats fortified foods or takes
-    supplements. A deficiency could affect nerve function and the baby’s development.
-  </p>
-  <p>
-    Since she is lactose intolerant, she may not consume enough calcium unless she drinks fortified plant milk. Calcium
-    is essential for the baby’s bones and for protecting her own bone health. Iodine is also important in pregnancy for
-    brain development, and vegetarian diets can sometimes be low in this nutrient.
-  </p>
-
-  <p>Too much:</p>
-  <ul>
-    <li>Carbohydrates</li>
-    <li>Sugar</li>
-    <li>Saturated fat</li>
-    <li>Sodium</li>
-  </ul>
-
-  <p>
-    If Mary relies on cheaper processed vegetarian foods, she may eat too many refined carbohydrates and added sugars.
-    This could lead to excessive weight gain during pregnancy and increase the risk of gestational diabetes.
-  </p>
-  <p>
-    Some processed vegetarian foods, such as meat substitutes and ready meals, can also be high in saturated fat and
-    salt. Too much sodium can raise blood pressure, which is dangerous in pregnancy and may increase the risk of
-    complications such as pre eclampsia.
-  </p>
-  <p>
-    This shows that while a vegetarian diet can be healthy, it depends on food choices. Poor planning could lead to both
-    nutrient deficiencies and excess intake of less healthy nutrients.
-  </p>
-
-  <hr />
-
-  <h1>4. What Might Be the Impact on Their Health?</h1>
-
-  <h2>Christos</h2>
-  <p>
-    If Christos eats too many refined carbohydrates and sugary foods, his blood glucose levels may remain high. Long term
-    poor diabetes control increases the risk of:
-  </p>
-  <ul>
-    <li>Heart disease</li>
-    <li>Kidney damage</li>
-    <li>Nerve damage</li>
-    <li>Vision problems</li>
-  </ul>
-
-  <p>
-    Too much salt increases blood pressure, which adds to his cardiovascular risk. If he does not eat enough protein, he
-    may lose muscle mass and become frail. This increases the risk of falls.
-  </p>
-  <p>
-    On the positive side, if he chooses wholegrains, vegetables, lean protein and healthy fats such as olive oil, he
-    could improve blood sugar control and reduce complications.
-  </p>
-
-  <hr />
-
-  <h2>Mary</h2>
-  <p>
-    If Mary does not meet her increased nutritional needs during pregnancy, there could be serious effects. Low iron can
-    cause anaemia, tiredness and low birth weight. Low calcium could affect her own bone health and the baby’s bone
-    development. Low B12 could affect neurological development.
-  </p>
-  <p>
-    If she consumes too many processed foods, she may gain excessive weight during pregnancy. This increases the risk of
-    gestational diabetes and high blood pressure.
-  </p>
-  <p>
-    However, a well planned vegetarian diet with fortified foods and supplements can fully support a healthy pregnancy.
-  </p>
-
-  <hr />
-
-  <h1>5. Alternative Method of Feeding and Its Impact</h1>
-  <p>An alternative method of feeding could be oral nutritional supplements for Christos.</p>
-
-  <p>
-    If he begins losing weight or struggles to eat balanced meals, prescribed nutritional drinks could help increase his
-    calorie and protein intake. This may prevent malnutrition and muscle loss.
-  </p>
-
-  <p>
-    However, some supplements contain sugar, which could affect his blood glucose levels. Therefore, diabetic specific
-    supplements would need to be used and monitored by a healthcare professional.
-  </p>
-
-  <p>This shows that alternative feeding methods can support health, but they must match the person’s medical condition.</p>
-
-  <hr />
-
-  <h1>Overall Assessment</h1>
-  <p>
-    Christos’ age, diabetes and living situation increase his risk of high blood sugar, heart disease and possible
-    undernutrition if his diet is unbalanced. Mary’s pregnancy, vegetarian diet and lactose intolerance increase her risk
-    of nutrient deficiencies if she does not carefully plan her food choices.
-  </p>
-  <p>
-    Both individuals show how lifestyle, health conditions and personal choices directly influence dietary intake and
-    long term health outcomes.
-  </p>
-</body>
-</html>
+<h2>Overall Assessment</h2>
+<p>
+Christos’ age, diabetes and living situation increase his risk of high blood glucose, cardiovascular disease and possible undernutrition if his diet remains unbalanced. Mary’s pregnancy, vegetarian diet, lactose intolerance and financial situation increase her risk of nutrient deficiencies as well as excessive intake of less healthy nutrients if her meals are not carefully planned.
+</p>
+<p>
+Both individuals clearly show how lifestyle, health conditions and personal circumstances directly influence dietary intake and long term health outcomes.
+</p>
